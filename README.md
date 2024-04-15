@@ -1,4 +1,4 @@
-# Nortech Data Science Challenge: Power Output Prediction
+# Nortech Data Science Interview Challenge: Power Output Prediction
 
 ## Introduction
 Welcome to the Nortech Data Science Interview Challenge. Nortech specializes in installing IoT devices on customer assets across various sectors, including marine, industrial, and logistics. These IoT devices collect data from the assets, which is stored both locally and in the cloud. This data enables our customers to visualize and utilize it for operational optimization, reducing costs and carbon emissions.
