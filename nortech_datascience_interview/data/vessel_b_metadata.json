@@ -1,0 +1,282 @@
+[
+  {
+    "name": "t0208_3",
+    "dataType": "float",
+    "physicalUnit": "%",
+    "descriptions": {
+      "short": "Main engine load",
+      "long": "Main engine load"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0505",
+    "dataType": "float",
+    "physicalUnit": "kW",
+    "descriptions": {
+      "short": "Shaft power",
+      "long": "Shaft power"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0506",
+    "dataType": "float",
+    "physicalUnit": "rpm",
+    "descriptions": {
+      "short": "Shaft speed",
+      "long": "Shaft speed"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0809",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Scavenge air receiver temperature",
+      "long": "Main engine scavenge air receiver temperature"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0707",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E AC CW inlet temperature",
+      "long": "Main engine air cooler cooling water inlet temperature"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0801",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhaust outlet temperatuyre cylinder 1",
+      "long": "Main engine exhaust outlet temprature of cylinder 1"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0802",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhaust outlet temperatuyre cylinder 2",
+      "long": "Main engine exhaust outlet temprature of cylinder 2"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0803",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhaust outlet temperatuyre cylinder 3",
+      "long": "Main engine exhaust outlet temprature of cylinder 3"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0804",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhaust outlet temperatuyre cylinder 4",
+      "long": "Main engine exhaust outlet temprature of cylinder 4"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0805",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhaust outlet temperatuyre cylinder 5",
+      "long": "Main engine exhaust outlet temprature of cylinder 5"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0806",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhaust outlet temperatuyre cylinder 6",
+      "long": "Main engine exhaust outlet temprature of cylinder 6"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0807",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhaust temperature at TC inlet",
+      "long": "Main engine exhaust temperature at TC inlet"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0808",
+    "dataType": "float",
+    "physicalUnit": "°C",
+    "descriptions": {
+      "short": "M/E Exhauast temperature at TC outlet",
+      "long": "Main engine exhaust temperature at TC outlet"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  },
+  {
+    "name": "t0209",
+    "dataType": "float",
+    "physicalUnit": "rpm",
+    "descriptions": {
+      "short": "M/E TC revolution",
+      "long": "Main engine turbocharger speed"
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel B"
+      },
+      "division": {
+        "name": "Single"
+      },
+      "unit": {
+        "name": "ME"
+      }
+    }
+  }
+]

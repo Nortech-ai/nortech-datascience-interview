@@ -1,0 +1,282 @@
+[
+  {
+    "name": "MC042",
+    "dataType": "float",
+    "physicalUnit": "rpm",
+    "descriptions": {
+      "short": "Propulsion shaft revolution",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MF011",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Fuel oil inlet temperature",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MC044",
+    "dataType": "float",
+    "physicalUnit": "%",
+    "descriptions": {
+      "short": "M/E Fuel index",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA001",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas temperature outlet cylinder 1",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA002",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas temperature outlet cylinder 2",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA003",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas temperature outlet cylinder 3",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA004",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas temperature outlet cylinder 4",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA005",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas temperature outlet cylinder 5",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA006",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas temperature outlet cylinder 6",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MW003",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Scavenge air manifold temperature",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MW000-AirP",
+    "dataType": "float",
+    "physicalUnit": "MPa",
+    "descriptions": {
+      "short": "M/E Scavenge air manifold pressure",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA017",
+    "dataType": "float",
+    "physicalUnit": "rpm",
+    "descriptions": {
+      "short": "M/E TC rpm",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA008",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas T/C inlet temperature",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  },
+  {
+    "name": "MA007",
+    "dataType": "float",
+    "physicalUnit": "degC",
+    "descriptions": {
+      "short": "M/E Exhaust gas T/C outlet temperature",
+      "long": ""
+    },
+    "adunit": {
+      "asset": {
+        "name": "Vessel A"
+      },
+      "division": {
+        "name": "Single division"
+      },
+      "unit": {
+        "name": "Main engine"
+      }
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "nortech-datascience-interview"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "nortech_datascience_interview"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ipykernel = "^6.29.4"
+plotly = "^5.20.0"
+pandas = "^2.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

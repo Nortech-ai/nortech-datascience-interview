@@ -1,0 +1,7 @@
+Load (%),T/C Intake air Temp. (°C),Barom. Press. (hPa),Engine Speed (min^-1),Output (kW),Fuel Oil Temp. (°C),Specific Fuel Oil Consump. Measured (g/kWh-hr),Specific Fuel Oil Consump. LCV Correction (g/kWh-hr),Specific Fuel Oil Consump. ISO Reference (g/kWh-hr),Pmax. (bar),Pcomp. (bar),Fuel Index (%),Exh. Gas Temp. Cyl. Outlet (°C),Scav. Air Temp. (°C),Scav. Air Press. (MPa),Turbo Charger Speed No.1 (min^-1),Exh. Gas Temp. T/C Inlet No.1 (°C),Exh. Gas Temp. T/C Outlet No.1 (°C)
+25,24.1,1015.0,54.4,2215,36,182.0,181.3,182.0,106.0,68.3,46,106.0,33.7,0.035,6300,290,232
+50,17.9,1024.0,68.6,4445,30,170.1,169.4,170.0,137.5,97.5,64,248.0,27.3,0.09,9700,310,223
+75,19.0,1024.0,78.6,6639,32,165.8,165.1,165.7,168.0,130.3,84,270.0,30.5,0.169,12200,340,204
+80,18.5,1024.0,80.3,7124,32,164.9,164.2,164.8,169.3,138.0,87,278.0,31.9,0.188,12700,355,204
+100,18.7,1024.0,86.5,8881,33,168.8,168.1,168.6,170.0,155.8,100,310.0,35.7,0.248,14000,390,215
+110,19.0,1024.0,89.2,9745,35,170.2,169.5,169.7,169.0,152.8,107,337.0,40.3,0.282,14600,420,231
