@@ -11,6 +11,7 @@ python = "^3.9"
 ipykernel = "^6.29.4"
 plotly = "^5.20.0"
 pandas = "^2.2.1"
+pyarrow = "^15.0.2"
 
 [build-system]
 requires = ["poetry-core"]
