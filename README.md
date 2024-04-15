@@ -25,6 +25,8 @@ The dataset includes sensor readings from **Vessel A** and **Vessel B**, along w
 - [Vessel B MetaData](nortech_datascience_interview/data/vessel_b_metadata.json): Metadata of sensor readings from Vessel B.
 - [Vessel B Engine Shop Trials Data](nortech_datascience_interview/data/vessel_b_engine_shop_trials_data.csv): Results from the engine shop trials for Vessel B.
 
+The dataset is only for use in the challenge and any other use is not permitted.
+
 ## Evaluation Criteria
 Your submission will be evaluated based on the following criteria:
 - **Accuracy**: How well does your model predict the power output of Vessel A?
